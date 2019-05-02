@@ -1,0 +1,10 @@
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\bin\Debug\ListExample.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\bin\Debug\ListExample.exe
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\bin\Debug\ListExample.pdb
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\obj\Debug\ListExample.Form1.resources
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\obj\Debug\ListExample.Properties.Resources.resources
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\obj\Debug\ListExample.csproj.GenerateResource.cache
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\obj\Debug\ListExample.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\obj\Debug\ListExample.exe
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\obj\Debug\ListExample.pdb
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\ListExample\obj\Debug\ListExample.csprojAssemblyReference.cache

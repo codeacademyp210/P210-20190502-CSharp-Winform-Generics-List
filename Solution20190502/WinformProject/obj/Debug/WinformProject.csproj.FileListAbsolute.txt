@@ -1,0 +1,10 @@
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\bin\Debug\WinformProject.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\bin\Debug\WinformProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\bin\Debug\WinformProject.pdb
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\obj\Debug\WinformProject.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\obj\Debug\WinformProject.Properties.Resources.resources
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\obj\Debug\WinformProject.csproj.GenerateResource.cache
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\obj\Debug\WinformProject.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\obj\Debug\WinformProject.exe
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\obj\Debug\WinformProject.pdb
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\WinformProject\obj\Debug\WinformProject.myForm.resources

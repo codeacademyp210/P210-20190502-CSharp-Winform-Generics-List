@@ -1,0 +1,9 @@
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\Task\bin\Debug\Task.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\Task\bin\Debug\Task.exe
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\Task\bin\Debug\Task.pdb
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\Task\obj\Debug\Task.Form1.resources
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\Task\obj\Debug\Task.exe
+C:\Users\sattar\Desktop\P210\C#\20190502\Solution20190502\Task\obj\Debug\Task.pdb
